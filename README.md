@@ -1,5 +1,4 @@
 # Code_collaby
-# CodeCollaby
 
 CodeCollaby is a real-time code collaboration platform that allows developers to write, edit, and run code together—anytime, anywhere. Built for distributed teams and coding partners, it supports instant code syncing, multiple languages, live execution, and a seamless collaboration experience.
 
